@@ -5,8 +5,6 @@
 // │  │ ││││├┤ ││ ┬│ │├┬┘├─┤ │ ││ ││││
 // └─┘└─┘┘└┘└  ┴└─┘└─┘┴└─┴ ┴ ┴ ┴└─┘┘└┘
 
-const key = '2bdaf4fd1920faa9947d1684cf937cce';
-
 const CONFIG = {
 	// ┌┐ ┌─┐┌─┐┬┌─┐┌─┐
 	// ├┴┐├─┤└─┐││  └─┐
@@ -28,7 +26,7 @@ const CONFIG = {
 	bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
 
 	// Weather
-	weatherKey: key, // Write here your API Key
+	weatherKey: '2bdaf4fd1920faa9947d1684cf937cce', // Write here your API Key
 	weatherIcons: 'OneDark', // 'Onedark', 'Nord', 'Dark', 'White'
 	weatherUnit: 'F', // 'F', 'C'
 	language: 'en', // More languages in https://openweathermap.org/current#multi

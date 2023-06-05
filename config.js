@@ -92,9 +92,9 @@ const CONFIG = {
 	secondButtonsContainer: [
 		{
 			id: '1',
-			name: 'Music',
-			icon: 'headphones',
-			link: 'https://open.spotify.com',
+			name: 'Netflix',
+			icon: 'movie',
+			link: 'https://www.netflix.com/browse',
 		},
 		{
 			id: '2',
@@ -104,9 +104,9 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'bot',
-			icon: 'bot',
-			link: 'https://discord.com/app',
+			name: 'Manga',
+			icon: 'manga',
+			link: 'https://mangakatana.com/bookmarks',
 		},
 		{
 			id: '4',

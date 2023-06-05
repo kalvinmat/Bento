@@ -93,7 +93,7 @@ const CONFIG = {
 		{
 			id: '1',
 			name: 'Netflix',
-			icon: 'movie',
+			icon: 'clapperboard',
 			link: 'https://www.netflix.com/browse',
 		},
 		{
@@ -105,7 +105,7 @@ const CONFIG = {
 		{
 			id: '3',
 			name: 'Manga',
-			icon: 'manga',
+			icon: 'book',
 			link: 'https://mangakatana.com/bookmarks',
 		},
 		{

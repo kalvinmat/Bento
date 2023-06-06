@@ -14,12 +14,12 @@ const CONFIG = {
 	name: 'Matt',
 	imageBackground: false,
 	openInNewTab: true,
-	twelveHourFormat: false,
+	twelveHourFormat: true,
 
 	// Greetings
 	greetingMorning: 'Yo morning!',
 	greetingAfternoon: 'Afternoon,',
-	greetingEvening: 'Ning,',
+	greetingEvening: 'It is late already,',
 	greetingNight: 'Sleep Time, Huh',
 
 	// Layout
